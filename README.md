@@ -10,9 +10,13 @@
 ## 🧑‍💻 About Me
 
 🚀 I build full-stack platforms — from real-time collaborative tools to role-based systems.
+
 💡 Currently deepening my expertise in **Generative AI (GenAI)** and **Retrieval-Augmented Generation (RAG)**.
+
 🛠️ Comfortable across the stack: React/Next.js on the front end, Node/Express/MongoDB on the back end.
+
 🌱 Exploring **Inngest** for event-driven background jobs and workflow orchestration.
+
 📫 Reach me at **mohnishgorana1@gmail.com**
 
 <br>
@@ -47,10 +51,12 @@ Cloud-based file management platform with real-time multi-user document collabor
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" /> </p> <br>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" />
-</p>
+<p align="center"> 
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true" /> </p>
+  <p align="center"> <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" /> </p> 
+  
+  <br>
 
 <br>
 
