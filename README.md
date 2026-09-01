@@ -19,42 +19,17 @@
 
 📫 Reach me at **mohnishgorana1@gmail.com**
 
-🌐 Portfolio: **[mohnish-gorana-portfolio.vercel.app](https://mohnish-gorana-portfolio.vercel.app)**
-
 <br>
 
 ## 🧰 Tech Stack
 
-**Frontend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js" />
-</p>
-
-**Backend & Database**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-**Tools & Version Control**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
-
-**Auth & Services**
-
-<p align="left">
-  <img height="48" src="https://cdn.simpleicons.org/clerk/6C47FF" />
-  <img height="48" src="https://cdn.simpleicons.org/appwrite/FD366E" />
-  <img height="48" src="https://cdn.simpleicons.org/supabase/3ECF8E" />
-  <img height="48" src="https://cdn.simpleicons.org/cloudinary/3448C5" />
-</p>
-
-**AI / GenAI**
-
-Generative AI (GenAI) &nbsp;•&nbsp; Retrieval-Augmented Generation (RAG) &nbsp;•&nbsp; LLM-integrated application development
+| Category | Stack |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js" height="40"/> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40"/> |
+| **Tools & Version Control** | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40"/> |
+| **Auth & Services** | <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="32"/> <img src="https://cdn.simpleicons.org/appwrite/FD366E" height="32"/> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="32"/> |
+| **AI / GenAI** | Generative AI (GenAI) • Retrieval-Augmented Generation (RAG) • LLM-integrated apps |
 
 <br>
 
@@ -77,8 +52,8 @@ Cloud-based file management platform with real-time multi-user document collabor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -91,15 +66,9 @@ Cloud-based file management platform with real-time multi-user document collabor
 
 <p align="center">
   <a href="https://mohnish-gorana-portfolio.vercel.app" target="_blank">
-    <img height="45" src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohnishgorana1@gmail.com" target="_blank">
-    <img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://mohnish-gorana-portfolio.vercel.app">Portfolio</a> &nbsp;•&nbsp;
-  <a href="mailto:mohnishgorana1@gmail.com">mohnishgorana1@gmail.com</a>
 </p>
