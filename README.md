@@ -2,21 +2,17 @@
 <h3 align="center">Full-Stack Developer | MERN & Next.js | Exploring GenAI & RAG</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN+%26+Next.js;Real-time+collaboration+%7C+Role-based+systems;Currently+exploring+GenAI+%26+RAG;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN+%26+Next.js;Real-time+collaboration+%7C+Role-based+systems;Currently+exploring+GenAI+%26+RAG;" alt="Typing SVG" />
 </p>
 
 <br>
 
 ## 🧑‍💻 About Me
 
-🚀 I build production-grade full-stack platforms — from real-time collaborative tools to role-based systems.
-
+🚀 I build full-stack platforms — from real-time collaborative tools to role-based systems.
 💡 Currently deepening my expertise in **Generative AI (GenAI)** and **Retrieval-Augmented Generation (RAG)**.
-
 🛠️ Comfortable across the stack: React/Next.js on the front end, Node/Express/MongoDB on the back end.
-
 🌱 Exploring **Inngest** for event-driven background jobs and workflow orchestration.
-
 📫 Reach me at **mohnishgorana1@gmail.com**
 
 <br>
@@ -51,11 +47,7 @@ Cloud-based file management platform with real-time multi-user document collabor
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" /> </p> <br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" />
 </p>
