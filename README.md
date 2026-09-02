@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohnish Gorana</h1>
+<h1 align="center">Mohnish Gorana</h1>
 <h3 align="center">Full-Stack Developer | MERN & Next.js | Exploring GenAI & RAG</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN+%26+Next.js;Real-time+collaboration+%7C+Role-based+systems;Currently+exploring+GenAI+%26+RAG;" alt="Typing SVG" />
-</p>
 
 <br>
 
@@ -23,13 +19,16 @@
 
 ## 🧰 Tech Stack
 
-| Category | Stack |
-|---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js" height="40"/> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40"/> |
-| **Tools & Version Control** | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40"/> |
-| **Auth & Services** | <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="32"/> <img src="https://cdn.simpleicons.org/appwrite/FD366E" height="32"/> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="32"/> |
-| **AI / GenAI** | Generative AI (GenAI) • Retrieval-Augmented Generation (RAG) • LLM-integrated apps |
+
+**Frontend** : ReactJS, NextJS, Redux, TailwindCSS, Javascript 
+
+**Backend & Database** : NodeJS, Express, MongoDB 
+
+**Tools & Version Control** :  Git, GitHub, Vercel 
+
+**Auth & Services** : Clerk, Appwrite, Supabase, Cloudinary 
+
+**AI / GenAI** : Generative AI (GenAI) • Retrieval-Augmented Generation (RAG) • LLM-integrated apps 
 
 <br>
 
@@ -47,16 +46,6 @@ Full-stack online examination platform with role-based access (Admin/Instructor/
 Cloud-based file management platform with real-time multi-user document collaboration and version control.
 **Tech:** Next.js · Appwrite · Lexical Editor · Liveblocks · shadcn/ui · Tailwind CSS
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center"> 
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mohnishgorana1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohnishgorana1&layout=compact&hide_border=true" /> </p>
-  <p align="center"> <img src="https://streak-stats.demolab.com?user=mohnishgorana1&hide_border=true" alt="GitHub Streak" /> </p> 
-  
-  <br>
 
 <br>
 
