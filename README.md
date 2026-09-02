@@ -1,6 +1,13 @@
 <h1 align="center">Mohnish Gorana</h1>
 <h3 align="center">Full-Stack Developer | MERN & Next.js | Exploring GenAI & RAG</h3>
 
+
+<p align="center">
+  <a href="https://mohnish-gorana-portfolio.vercel.app/" target="_blank">Visit My Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohnish-gorana-804374340/" target="_blank">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/mohnishgorana1" target="_blank">GitHub</a>
+</p>
+
 <br>
 
 ## 🧑‍💻 About Me
